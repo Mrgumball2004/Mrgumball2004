@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there👋, im Mrgumbal
+
+github-stats
+
+github-streaks
 
 <!--
 **Mrgumball2004/Mrgumball2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
