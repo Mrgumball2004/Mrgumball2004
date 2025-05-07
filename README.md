@@ -9,9 +9,9 @@
 
  I am trying to learn how to code.
 
-🛠️ Technologies & Skills
-Languages: Java, JavaScript, HTML, CSS
-Frameworks/Libraries: React, Node.js, Ionic
+## 🛠️ Technologies & Skills
+* **Languages:** `Java`, `JavaScript`, `HTML`, `CSS`
+* **Frameworks/Libraries:** `Ionic`, `React`, `Node.js`
 
-🌱 What I'm Learning
- Machine Learning, Web Development, Game Development
+## 🌱 What I'm Learning
+*  Web Development, Machine Learning, Game Development
